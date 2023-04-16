@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> 
  Welcome! 👋Huddle landing page with curved sections.
 </h1>
 
